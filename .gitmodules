@@ -1,0 +1,9 @@
+[submodule "json"]
+	path = json
+	url = https://github.com/nlohmann/json
+[submodule "libquic"]
+	path = libquic
+	url = https://github.com/devsisters/libquic
+[submodule "xfinal"]
+	path = xfinal
+	url = https://github.com/xmh0511/xfinal
